@@ -1,0 +1,109 @@
+[
+    {
+      "name": "group0",
+      "items": [
+        "00010_Portfolio_Issuer_Name",
+        "00030_Portfolio_Identifying_Data",
+        "00040_Type_Of_Identification_Code_For_The_Fund_Share_Or_Portfolio",
+        "00050_Portfolio_Name",
+        "00060_Share_Class_Currency",
+        "00070_Reference_Date",
+        "00080_Portfolio_PRIIPS_Category",
+        "00090_Fund_CIC_code",
+        "00100_EOS_portfolio",
+        "01010_Valuation_Frequency"
+      ]
+    },
+    {
+      "name": "group1",
+      "items": [
+        "01020_Portfolio_VEV_Reference",
+        "01030_IS_Flexible",
+        "01040_Flex_VEV_Historical",
+        "01050_Flex_VEV_Ref_Asset_Allocation",
+        "01060_IS_Risk_Limit_Relevant",
+        "01070_Flex_VEV_Risk_Limit",
+        "01080_Existing_Credit_Risk",
+        "01090_SRI",
+        "01100_MRM",
+        "01110_CRM",
+        "01120_Recommended_Holding_Period",
+        "01140_Liquidity_Risk"
+      ]
+    },
+    {
+      "name": "group2",
+      "items": [
+        "02010_Portfolio_return_unfavorable_scenario_1_year",
+        "02020_Portfolio_return_unfavorable_scenario_half_RHP",
+        "02030_Portfolio_return_unfavorable_scenario_RHP",
+        "02040_Portfolio_return_moderate_scenario_1_year",
+        "02050_Portfolio_return_moderate_scenario_half_RHP",
+        "02060_Portfolio_return_moderate_scenario_RHP",
+        "02070_Portfolio_return_favorable_scenario_1_year",
+        "02080_Portfolio_return_favorable_scenario_half_RHP",
+        "02090_Portfolio_return favorable scenario_RHP",
+        "02100_Portfolio_return_stress_scenario_1_year",
+        "02110_Portfolio_return_stress_scenario_half_RHP",
+        "02120_Portfolio_return_stress_scenario_RHP",
+        "02130_Portfolio_number_of_observed_return_M0",
+        "02140_Portfolio_mean_observed_returns_M1",
+        "02150_Portfolio_observed_Sigma",
+        "02160_Portfolio_observed_Skewness",
+        "02170_Portfolio_observed_Excess_Kurtosis",
+        "02180_Portfolio_observed_Stressed_Volatility"
+      ]
+    },
+    {
+      "name": "group3",
+      "items": [
+        "03010_One_off_cost_Portfolio_entry_cost",
+        "03015_One_off_cost_Portfolio_entry_cost_Acquired",
+        "03020_One_off_costs_Portfolio_exit_cost_at_RHP",
+        "03030_One_off_costs_Portfolio_exit_cost_at_1_year",
+        "03040_One_off_costs_Portfolio_exit_cost_at_half_RHP",
+        "03050_One_off_costs_Portfolio_sliding_exit_cost_Indicator",
+        "03060_Ongoing_costs_Portfolio_other_costs",
+        "03070_Ongoing_costs_Portfolio_management_costs",
+        "03080_Ongoing_costs_Portfolio_transaction_costs",
+        "03090_Existing_performance_fees",
+        "03100_Existing_carried_interest_fees"
+      ]
+    },
+    {
+      "name": "group4",
+      "items": [
+        "04010_Reference_Language",
+        "04020_Comprehension_Alert_Portfolio",
+        "04030_Intended_target_market_retail_investor_Portfolio",
+        "04040_Investment_objective_Portfolio",
+        "04050_Risk_narrative_Portfolio",
+        "04060_Other_materially_relevant_risk_narrative_Portfolio",
+        "04070_Type_of_underlying_Investment_Option",
+        "04080_Capital_Guarantee"
+      ]
+    },
+    {
+      "name": "group5",
+      "items": [
+        "05010_PRIIP_data_delivery",
+        "05020_UCITS_data_delivery",
+        "05030_Portfolio_UCITS_SRRI",
+        "05050_Ongoing_costs_Portfolio_other_costs_UCITS",
+        "05060_Ongoing_costs_Portfolio_transaction_costs",
+        "05065_Transactions_costs_methodology",
+        "05090_UCITS_KID_Web_Address"
+      ]
+    },
+    {
+      "name": "group6",
+      "items": [
+        "06010_Bonds_Weight",
+        "06020_Annualized_Return_Volatility",
+        "06030_Duration_Bonds",
+        "06040_Existing_Capital_Preservation",
+        "06070_Uses_PI"
+      ]
+    }
+  ]
+  
