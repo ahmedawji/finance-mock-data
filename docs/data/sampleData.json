@@ -12,7 +12,7 @@
       "01010_Valuation_Frequency": 252,
       "01020_Portfolio_VEV_Reference": 0.145,
       "01030_IS_Flexible": "Y",
-      "01040_Flex_VEV_Historical": 0.0793088,
+      "01040_Flex_VEV_Historical": null,
       "01050_Flex_VEV_Ref_Asset_Allocation": 0.0830013,
       "01060_IS_Risk_Limit_Relevant": "Y",
       "01070_Flex_VEV_Risk_Limit": 0.145,
